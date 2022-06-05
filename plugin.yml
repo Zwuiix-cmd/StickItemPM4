@@ -1,0 +1,7 @@
+---
+name: Stick
+main: Zwuiix\Stick\Main
+version: 1.0.0
+api: 4.0.0
+author: Zwuiix
+...
